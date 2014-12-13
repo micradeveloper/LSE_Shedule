@@ -1,0 +1,34 @@
+<Settings>
+	<AvailableTimes>
+		<time idx="1">9:00</time>
+		<time idx="2">10:00</time>
+		<time idx="3">11:00</time>
+		<time idx="4">12:00</time>
+		<time idx="5">13:00</time>
+	</AvailableTimes>
+	<AvailableSubjects>
+		<subject idx="1">Subject ¹1</subject>
+		<subject idx="2">Subject ¹2</subject>
+		<subject idx="3">Subject ¹3</subject>
+		<subject idx="4">Subject ¹4</subject>
+	</AvailableSubjects>
+	<Teachers>
+		<teacher id = "12">
+			<name>Ivan</name>
+			<busyTime>1;3</busyTime>
+			<subjects>2;4</subjects>
+		</teacher>
+	</Teachers>
+	<Students>
+		<student id="2">
+			<name>Alex</name>
+			<busyTime>2;3</busyTime>
+			<subjects>4</subjects>
+		</student>
+		<student id="3">
+			<name>Dima</name>
+			<busyTime>1;3</busyTime>
+			<subjects>2</subjects>
+		</student>
+	</Students>
+</Settings>

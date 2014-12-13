@@ -1,0 +1,9 @@
+C:\Users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\Tests\bin\Debug\Tests.dll
+C:\Users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\Tests\bin\Debug\Tests.pdb
+C:\Users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\Tests\bin\Debug\LSE_Shedule.exe
+C:\Users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\Tests\bin\Debug\nunit.framework.dll
+C:\Users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\Tests\bin\Debug\LSE_Shedule.pdb
+C:\Users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\Tests\bin\Debug\nunit.framework.xml
+C:\Users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\Tests\obj\Debug\Tests.dll
+C:\Users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\Tests\obj\Debug\Tests.pdb

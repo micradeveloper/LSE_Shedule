@@ -1,0 +1,8 @@
+c:\users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\LSE_Shedule\bin\Debug\LSE_Shedule.exe.config
+C:\Users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\LSE_Shedule\bin\Debug\LSE_Shedule.exe
+C:\Users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\LSE_Shedule\bin\Debug\LSE_Shedule.pdb
+C:\Users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\LSE_Shedule\obj\Debug\LSE_Shedule.Properties.Resources.resources
+C:\Users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\LSE_Shedule\obj\Debug\LSE_Shedule.csproj.GenerateResource.Cache
+C:\Users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\LSE_Shedule\obj\Debug\LSE_Shedule.exe
+C:\Users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\LSE_Shedule\obj\Debug\LSE_Shedule.pdb
+C:\Users\asus-pc\documents\visual studio 2012\Projects\LSE_Shedule\LSE_Shedule\obj\Debug\LSE_Shedule.csprojResolveAssemblyReference.cache
